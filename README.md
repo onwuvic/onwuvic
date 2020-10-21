@@ -12,7 +12,7 @@ I'm Victor Onwuzor, a Full stack JavaScript Software Engineer with 4 years of ex
 [![Twitter Badge](https://img.shields.io/badge/-@victoronwuzor-0B3C49?style=flat-square&labelColor=0B3C49&logo=Twitter&link=https://twitter.com/victoronwuzor)](https://twitter.com/victoronwuzor)
 [![Medium Badge](https://img.shields.io/badge/-@victoronwuzor-0B3C49?style=flat-square&labelColor=black&logo=Medium&link=https://medium.com/@victoronwuzor)](https://medium.com/@victoronwuzor)
 [![Stackoverflow Badge](https://img.shields.io/badge/-okwyvic-0B3C49?style=flat-square&labelColor=black&color=black&logo=Stackoverflow&link=https://stackoverflow.com/users/5954989/okwyvic)](https://stackoverflow.com/users/5954989/okwyvic)
-[![Gmail Badge](https://img.shields.io/badge/-victor.onwuzor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.onwuzor@gmail.com)](victor.onwuzor@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-victor.onwuzor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.onwuzor@gmail.com)](mailto:victor.onwuzor@gmail.com)
 
 **Want to learn more about me? Check out my website!**
 
