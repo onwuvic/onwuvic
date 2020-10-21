@@ -40,7 +40,7 @@ I'm Victor Onwuzor, a Full stack JavaScript Software Engineer with 4 years of ex
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=onwuvic&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onwuvic&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=onwuvic)
 
