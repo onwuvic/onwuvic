@@ -36,5 +36,10 @@ I'm Victor Onwuzor, a Full stack JavaScript Software Engineer with 4 years of ex
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+<br>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=onwuvic&show_icons=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=onwuvic)
 
 </div>
