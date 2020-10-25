@@ -4,7 +4,7 @@
 
 **Software Engineer | Technical Writer | Minimalist**
 
-I'm Victor Onwuzor, a Full stack JavaScript Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work at [LevelTen Energy](https://leveltenenergy.com/) Seattle, USA remotely as a Full stack JavaScript Software Engineer. In my spare time, I enjoy reading, watching Anime, playing video games, and I am an aspiring Photographer.
+I'm Victor Onwuzor, a full stack Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work at [LevelTen Energy](https://leveltenenergy.com/) Seattle, USA remotely as a Full stack JavaScript Software Engineer. In my spare time, I enjoy reading, watching Anime, playing video games, and I am an aspiring Photographer.
 
 **Want to stay in touch? You can find me here:**
 
