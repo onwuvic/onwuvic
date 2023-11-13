@@ -4,7 +4,7 @@
 
 **Software Engineer | Technical Writer | Minimalist**
 
-I'm Victor Onwuzor, a full stack Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work at [Construyo](https://www.construyo.de) Berlin, Germany as a Full stack JavaScript Software Engineer. In my spare time, I enjoy reading, watching Anime, playing video games, and I am an aspiring Photographer.
+I'm Victor Onwuzor, a Software Engineer with 6 years of experience building innovative solutions for globally distributed teams. I currently work at [HeyCar]([https://www.construyo.de](https://hey.car) in Berlin, Germany as a Senior Frontend Engineer. In my spare time, I enjoy reading, watching Anime, playing video games, and I am an aspiring Photographer.
 
 **Want to stay in touch? You can find me here:**
 
